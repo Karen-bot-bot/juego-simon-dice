@@ -1,0 +1,18 @@
+{
+  "name": "juego-simon-dice",
+  "version": "1.0.0",
+  "description": "Juego de simon dice para r/argentina-programa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Karen-bot-bot/juego-simon-dice.git"
+  },
+  "author": "Karen Luna",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
